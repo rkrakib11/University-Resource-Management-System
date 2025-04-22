@@ -5,7 +5,7 @@ This project aims to streamline and manage university resources efficiently and 
 
 ---
 
-## 👨‍💻 Group Name: Code Red
+## 👨‍💻 Group Name: CodeRed
 
 ### 👥 Project Members:
 - **Rakibul Karim Rakib** — `#2212240042`
